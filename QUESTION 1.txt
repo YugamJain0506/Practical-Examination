@@ -1,0 +1,33 @@
+<html>
+<head>
+<title>Question-1</title>
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+</style>
+</head>
+<body>
+
+<table style="width:100%">
+  <tr style="height:200px">
+    <th colspan="2">A</th>
+    <th>B</th> 
+    <th>C</th>
+  </tr>
+  <tr style="height:200px">
+    <th>D</th>
+    <th colspan="2">E</th>
+    <th>F</th>
+  </tr>
+  <tr style="height:200px">
+    <th>G</th>
+    <th>H</th>
+    <th colspan="2"><img src="C:\Users\yugam jain\Pictures\pillars_of_creation.jpg" alt = 'Nebula' width="50" height="10"></th>
+  </tr>
+  
+</table>
+
+</body>
+</html>
